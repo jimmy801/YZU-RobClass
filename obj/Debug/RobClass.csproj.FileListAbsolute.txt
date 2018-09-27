@@ -1,0 +1,104 @@
+D:\Work\RobClass\bin\Debug\RobClass.exe.config
+D:\Work\RobClass\bin\Debug\RobClass.exe
+D:\Work\RobClass\bin\Debug\RobClass.pdb
+D:\Work\RobClass\obj\Debug\RobClass.csproj.ResolveComReference.cache
+D:\Work\RobClass\obj\Debug\RobClass.Form1.resources
+D:\Work\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+D:\Work\RobClass\obj\Debug\RobClass.csproj.GenerateResource.Cache
+D:\Work\RobClass\obj\Debug\RobClass.exe
+D:\Work\RobClass\obj\Debug\RobClass.pdb
+D:\Work\RobClass\obj\Debug\RobClass.csprojResolveAssemblyReference.cache
+D:\Work\RobClass\bin\Debug\tessnet2_32.dll
+D:\Work\RobClass\obj\Debug\RobClass.Form2.resources
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\bin\Debug\RobClass.exe.config
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.csproj.ResolveComReference.cache
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.exe
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.pdb
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\bin\Debug\RobClass.exe
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\bin\Debug\RobClass.pdb
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\bin\Debug\tessnet2_32.dll
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.csprojResolveAssemblyReference.cache
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.Form1.resources
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.Form2.resources
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+C:\Users\kiter\Downloads\新增資料夾 (2)\RobClass\obj\Debug\RobClass.csproj.GenerateResource.Cache
+C:\Users\kiter\Downloads\Rob\RobClass\bin\Debug\RobClass.exe.config
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.csproj.ResolveComReference.cache
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.exe
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.pdb
+C:\Users\kiter\Downloads\Rob\RobClass\bin\Debug\RobClass.exe
+C:\Users\kiter\Downloads\Rob\RobClass\bin\Debug\RobClass.pdb
+C:\Users\kiter\Downloads\Rob\RobClass\bin\Debug\tessnet2_32.dll
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.csprojResolveAssemblyReference.cache
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.Form1.resources
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.Form2.resources
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+C:\Users\kiter\Downloads\Rob\RobClass\obj\Debug\RobClass.csproj.GenerateResource.Cache
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\RobClass.exe
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\RobClass.exe.config
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\RobClass.pdb
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.Form1.resources
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.Form2.resources
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.csproj.GenerateResource.Cache
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.exe
+C:\Users\Jimmy801\Downloads\Rob\RobClass\obj\Debug\RobClass.pdb
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\x64\liblept172.dll
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\x64\libtesseract304.dll
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\x86\liblept172.dll
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\x86\libtesseract304.dll
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\Tesseract.dll
+C:\Users\Jimmy801\Downloads\Rob\RobClass\bin\Debug\Tesseract.xml
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\x86\liblept172.dll
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\x86\libtesseract304.dll
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\RobClass.exe
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\Tesseract.dll
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\x64\liblept172.dll
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\x64\libtesseract304.dll
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\Tesseract.xml
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.Form1.resources
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.Form2.resources
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.GenerateResource.Cache
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.exe
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.pdb
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\RobClass.exe.config
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\obj\Debug\RobClass.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy801\Downloads\Rob - 複製\RobClass\bin\Debug\RobClass.pdb
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\x64\liblept172.dll
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\x64\libtesseract304.dll
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\x86\liblept172.dll
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\x86\libtesseract304.dll
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\RobClass.exe.config
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\RobClass.exe
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\RobClass.pdb
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\Tesseract.dll
+D:\CLASS\Work\Rob - 複製\RobClass\bin\Debug\Tesseract.xml
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.csprojAssemblyReference.cache
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.Form1.resources
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.Form2.resources
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.GenerateResource.cache
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.CoreCompileInputs.cache
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.CopyComplete
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.exe
+D:\CLASS\Work\Rob - 複製\RobClass\obj\Debug\RobClass.pdb
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\x64\liblept172.dll
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\x64\libtesseract304.dll
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\x86\liblept172.dll
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\x86\libtesseract304.dll
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\RobClass.exe.config
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\RobClass.exe
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\RobClass.pdb
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\Tesseract.dll
+D:\CLASS\Work\C#\Rob - 複製\RobClass\bin\Debug\Tesseract.xml
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.csprojAssemblyReference.cache
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.Form1.resources
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.Form2.resources
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.Properties.Resources.resources
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.GenerateResource.cache
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.CoreCompileInputs.cache
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.csproj.CopyComplete
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.exe
+D:\CLASS\Work\C#\Rob - 複製\RobClass\obj\Debug\RobClass.pdb
