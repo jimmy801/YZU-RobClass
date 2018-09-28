@@ -21,6 +21,10 @@
 
 執行RobClass.exe即可
 
+註:若只要下載單個資料夾檔案可以使用https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
+
+Google插件下載
+
 程式預覽圖:
 
 ![image](https://github.com/jimmy801/YZU-RobClass/blob/master/ScreenShot/00.png)
