@@ -23,4 +23,14 @@
 
 程式預覽圖:
 
+初始登入頁面
+
+![image](https://github.com/jimmy801/YZU-RobClass/blob/master/ScreenShot/Login.png)
+
+系統未開放畫面
+
+![image](https://github.com/jimmy801/YZU-RobClass/blob/master/ScreenShot/Not%20open.png)
+
+選課運作截圖
+
 ![image](https://github.com/jimmy801/YZU-RobClass/blob/master/ScreenShot/00.png)
