@@ -17,11 +17,9 @@
 
 本程式可以決定好自動選課課程後自動化在背景選課
 
-若只要執行檔下載 https://github.com/jimmy801/YZU-RobClass/tree/master/bin/Debug/YZURobClass_Portable 內所有檔案後
+若只要[執行檔下載](https://github.com/jimmy801/YZU-RobClass/tree/master/bin/Debug/YZURobClass_Portable)內所有檔案後，執行RobClass.exe即可
 
-執行RobClass.exe即可
-
-註:若只要下載單個資料夾檔案可以使用https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn Google插件下載
+註:若只要下載單個資料夾檔案可以使用[Google插件下載]https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
 
 程式預覽圖:
 
